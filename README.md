@@ -31,7 +31,7 @@ Knob(CC)
 14 vivid  
 15 glow  
 
-キーボードの操作
+キーボードの操作  
 カメラのコントロール  
 1	camera1  
 2	camera2  
