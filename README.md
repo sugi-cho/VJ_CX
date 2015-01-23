@@ -2,6 +2,7 @@
 
 チャネルXでの、VJコンテンツ  
 https://www.super-deluxe.com/news/102  
+for OSX
 
 以下のUnityプラグインを使っています！  
 ・AudioJack https://github.com/keijiro/AudioJack  
