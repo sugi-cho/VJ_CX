@@ -2,6 +2,7 @@
 
 チャネルXでの、VJコンテンツ  
 https://www.super-deluxe.com/news/102  
+http://youtu.be/VdYZBvYz6us  
 for OSX
 
 以下のUnityプラグインを使っています！  
